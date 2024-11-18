@@ -73,6 +73,17 @@ padding: 20px;
     main{
         flex-direction: column;
         margin-left: 2px;
+        
+    }
+    .mail ,.github{
+        display: flex;
+        padding-top: 5px;
+    }
+    .mail ,i{
+        margin: 10px 10px 10px 0px;
+    }
+    .github ,i{
+        margin: 10px 10px 10px 0px;
     }
     .vr{
         display: none;
