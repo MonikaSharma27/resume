@@ -72,7 +72,8 @@ padding: 20px;
     
     main{
         flex-direction: column;
-        
+        margin-left: 2px;
+        font-size: 32px;
     }
     .vr{
         display: none;
